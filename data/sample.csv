@@ -1,0 +1,483 @@
+﻿routename,port1name,port2name,lon,lat,point_id,distance
+Shanghai ==> Dampier,Shanghai,Dampier,121.426267,31.477125,0,3317.43
+Shanghai ==> Dampier,Shanghai,Dampier,122.302903,31.10356,1,3317.43
+Shanghai ==> Dampier,Shanghai,Dampier,122.820148,31.072923,2,3317.43
+Shanghai ==> Dampier,Shanghai,Dampier,122.945252,30.944467,3,3317.43
+Shanghai ==> Dampier,Shanghai,Dampier,123.052007,30.503912,4,3317.43
+Shanghai ==> Dampier,Shanghai,Dampier,123.061573,29.994403,5,3317.43
+Shanghai ==> Dampier,Shanghai,Dampier,122.444775,24.567652,6,3317.43
+Shanghai ==> Dampier,Shanghai,Dampier,121.385082,22.079767,7,3317.43
+Shanghai ==> Dampier,Shanghai,Dampier,119.694818,16.726563,8,3317.43
+Shanghai ==> Dampier,Shanghai,Dampier,119.6576,15.69234,9,3317.43
+Shanghai ==> Dampier,Shanghai,Dampier,119.8642,13.95419,10,3317.43
+Shanghai ==> Dampier,Shanghai,Dampier,120.776233,12.577888,11,3317.43
+Shanghai ==> Dampier,Shanghai,Dampier,121.018637,12.067048,12,3317.43
+Shanghai ==> Dampier,Shanghai,Dampier,121.365143,10.79917,13,3317.43
+Shanghai ==> Dampier,Shanghai,Dampier,120.807142,9.548617,14,3317.43
+Shanghai ==> Dampier,Shanghai,Dampier,120.46495,8.454228,15,3317.43
+Shanghai ==> Dampier,Shanghai,Dampier,119.845753,5.97637,16,3317.43
+Shanghai ==> Dampier,Shanghai,Dampier,119.617497,4.81272,17,3317.43
+Shanghai ==> Dampier,Shanghai,Dampier,119.546815,0.779903,18,3317.43
+Shanghai ==> Dampier,Shanghai,Dampier,118.499183,-3.065235,19,3317.43
+Shanghai ==> Dampier,Shanghai,Dampier,118.337192,-3.547255,20,3317.43
+Shanghai ==> Dampier,Shanghai,Dampier,117.028718,-5.454377,21,3317.43
+Shanghai ==> Dampier,Shanghai,Dampier,116.804138,-6.943768,22,3317.43
+Shanghai ==> Dampier,Shanghai,Dampier,116.07172,-7.814877,23,3317.43
+Shanghai ==> Dampier,Shanghai,Dampier,115.678715,-8.788862,24,3317.43
+Shanghai ==> Dampier,Shanghai,Dampier,115.623693,-9.149088,25,3317.43
+Shanghai ==> Dampier,Shanghai,Dampier,116.855902,-19.142338,26,3317.43
+Shanghai ==> Dampier,Shanghai,Dampier,116.863028,-19.846438,27,3317.43
+Shanghai ==> Dampier,Shanghai,Dampier,116.722822,-20.307398,28,3317.43
+Shanghai ==> Dampier,Shanghai,Dampier,116.545523,-20.362877,29,3317.43
+Shanghai ==> Dampier,Shanghai,Dampier,116.720298,-20.420647,30,3317.43
+Shanghai ==> Dampier,Shanghai,Dampier,116.671732,-20.647008,31,3317.43
+Shanghai ==> Port Hedland,Shanghai,Port Hedland,121.424918,31.477365,0,3301.69
+Shanghai ==> Port Hedland,Shanghai,Port Hedland,121.996695,31.088003,1,3301.69
+Shanghai ==> Port Hedland,Shanghai,Port Hedland,123.137073,30.830565,2,3301.69
+Shanghai ==> Port Hedland,Shanghai,Port Hedland,123.264043,30.63572,3,3301.69
+Shanghai ==> Port Hedland,Shanghai,Port Hedland,123.299135,30.404752,4,3301.69
+Shanghai ==> Port Hedland,Shanghai,Port Hedland,123.220948,29.945363,5,3301.69
+Shanghai ==> Port Hedland,Shanghai,Port Hedland,122.981773,29.523205,6,3301.69
+Shanghai ==> Port Hedland,Shanghai,Port Hedland,122.883302,29.164407,7,3301.69
+Shanghai ==> Port Hedland,Shanghai,Port Hedland,120.149063,24.524332,8,3301.69
+Shanghai ==> Port Hedland,Shanghai,Port Hedland,119.569508,22.380913,9,3301.69
+Shanghai ==> Port Hedland,Shanghai,Port Hedland,119.202935,15.993888,10,3301.69
+Shanghai ==> Port Hedland,Shanghai,Port Hedland,119.778358,14.072488,11,3301.69
+Shanghai ==> Port Hedland,Shanghai,Port Hedland,120.464595,12.231692,12,3301.69
+Shanghai ==> Port Hedland,Shanghai,Port Hedland,120.572555,10.859128,13,3301.69
+Shanghai ==> Port Hedland,Shanghai,Port Hedland,120.375582,8.609965,14,3301.69
+Shanghai ==> Port Hedland,Shanghai,Port Hedland,119.671467,5.24128,15,3301.69
+Shanghai ==> Port Hedland,Shanghai,Port Hedland,119.620192,0.974147,16,3301.69
+Shanghai ==> Port Hedland,Shanghai,Port Hedland,118.76477,-1.966695,17,3301.69
+Shanghai ==> Port Hedland,Shanghai,Port Hedland,118.48016,-3.40264,18,3301.69
+Shanghai ==> Port Hedland,Shanghai,Port Hedland,116.981147,-5.727227,19,3301.69
+Shanghai ==> Port Hedland,Shanghai,Port Hedland,115.63884,-8.926042,20,3301.69
+Shanghai ==> Port Hedland,Shanghai,Port Hedland,118.255227,-19.173973,21,3301.69
+Shanghai ==> Port Hedland,Shanghai,Port Hedland,118.416827,-19.761733,22,3301.69
+Shanghai ==> Port Hedland,Shanghai,Port Hedland,118.539735,-19.845512,23,3301.69
+Shanghai ==> Port Hedland,Shanghai,Port Hedland,118.472,-19.9309,24,3301.69
+Shanghai ==> Port Hedland,Shanghai,Port Hedland,118.56974,-20.313268,25,3301.69
+Shanghai ==> Port Walcott,Shanghai,Port Walcott,121.390167,31.494277,0,3315.15
+Shanghai ==> Port Walcott,Shanghai,Port Walcott,122.307217,31.101373,1,3315.15
+Shanghai ==> Port Walcott,Shanghai,Port Walcott,123.0472,31.0744,2,3315.15
+Shanghai ==> Port Walcott,Shanghai,Port Walcott,123.3225,30.896,3,3315.15
+Shanghai ==> Port Walcott,Shanghai,Port Walcott,123.4916,29.563,4,3315.15
+Shanghai ==> Port Walcott,Shanghai,Port Walcott,122.929853,26.894917,5,3315.15
+Shanghai ==> Port Walcott,Shanghai,Port Walcott,119.10749,15.960673,6,3315.15
+Shanghai ==> Port Walcott,Shanghai,Port Walcott,119.191667,15.559907,7,3315.15
+Shanghai ==> Port Walcott,Shanghai,Port Walcott,120.356187,12.539147,8,3315.15
+Shanghai ==> Port Walcott,Shanghai,Port Walcott,120.563762,11.077347,9,3315.15
+Shanghai ==> Port Walcott,Shanghai,Port Walcott,120.573493,10.358667,10,3315.15
+Shanghai ==> Port Walcott,Shanghai,Port Walcott,119.5992,4.710053,11,3315.15
+Shanghai ==> Port Walcott,Shanghai,Port Walcott,119.579867,1.024773,12,3315.15
+Shanghai ==> Port Walcott,Shanghai,Port Walcott,118.617813,-2.50616,13,3315.15
+Shanghai ==> Port Walcott,Shanghai,Port Walcott,118.576998,-3.232268,14,3315.15
+Shanghai ==> Port Walcott,Shanghai,Port Walcott,116.952213,-5.695173,15,3315.15
+Shanghai ==> Port Walcott,Shanghai,Port Walcott,115.720133,-8.82984,16,3315.15
+Shanghai ==> Port Walcott,Shanghai,Port Walcott,117.448582,-20.43132,17,3315.15
+Shanghai ==> Port Walcott,Shanghai,Port Walcott,117.40288,-20.542107,18,3315.15
+Shanghai ==> Port Walcott,Shanghai,Port Walcott,117.180765,-20.583183,19,3315.15
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,121.435917,31.469858,0,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,122.30956,31.10027,1,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,122.70925,31.086248,2,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,123.422445,30.853711,3,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,123.723215,30.028381,4,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,123.706568,29.764962,5,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,123.537835,29.47086,6,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,123.56448,28.948113,7,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,122.327612,27.410205,8,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,121.740875,26.483003,9,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,121.36698,26.240593,10,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,120.372133,24.81498,11,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,119.88821,23.820938,12,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,119.789203,22.797435,13,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,119.45726,21.854467,14,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,118.301487,20.586023,15,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,113.975512,16.444243,16,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,113.235677,15.460793,17,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,112.12259,13.290683,18,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,110.032905,9.530272,19,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,109.910388,9.17722,20,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,109.672805,8.945085,21,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,109.22572,7.882888,22,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,108.621283,6.764832,23,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,108.385232,6.461458,24,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,107.975592,6.167118,25,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,106.848677,5.09066,26,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,105.645953,3.83804,27,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,105.072838,2.78117,28,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,104.784177,1.82573,29,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,104.53297,1.482743,30,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,104.311748,1.310052,31,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,103.912037,1.274422,32,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,104.336727,1.29015,33,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,104.701038,1.580083,34,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,104.893162,1.539927,35,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,105.120712,1.15883,36,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,105.228572,1.125898,37,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,105.152202,1.372425,38,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,105.238783,1.160148,39,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,105.034168,1.413998,40,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,104.553037,1.47373,41,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,104.322393,1.31431,42,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,103.7293,1.139595,43,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,103.4125,1.248815,44,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,102.985637,1.62706,45,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,102.258618,1.958497,46,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,101.46783,2.596283,47,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,100.994602,2.839125,48,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,100.79669,3.02586,49,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,99.842013,4.271502,50,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,98.980252,5.189565,51,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,98.179115,5.675245,52,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,98.165015,5.947573,53,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,98.2406,5.946205,54,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,98.024625,6.069272,55,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,98.108002,6.071053,56,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,95.372867,6.187972,57,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,95.058377,6.169102,58,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,94.727557,6.038868,59,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,88.645013,1.881013,60,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,86.820568,0.546812,61,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,86.604365,0.477522,62,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,85.44304,-0.23328,63,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,84.350987,-1.062027,64,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,76.14624,-6.664267,65,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,75.158578,-7.41499,66,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,69.59832,-11.148667,67,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,59.638007,-17.74781,68,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,57.944587,-18.4392,69,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,48.68184,-24.80224,70,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,47.914728,-25.19834,71,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,45.765947,-25.866773,72,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,36.347308,-29.637115,73,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,32.728347,-30.904747,74,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,32.026773,-31.05952,75,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,31.46552,-31.438427,76,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,30.841387,-31.694693,77,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,30.332085,-32.049908,78,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,29.84279,-32.166,79,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,28.922797,-32.55305,80,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,27.074907,-33.876133,81,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,24.89224,-34.520133,82,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,23.588907,-34.75224,83,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,21.727433,-34.814395,84,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,19.84101,-35.06771,85,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,18.840533,-35.059867,86,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,18.683573,-34.660773,87,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,18.721787,-34.933173,88,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,18.6288,-34.746545,89,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,18.646905,-34.571228,90,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,18.661413,-34.898613,91,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,18.17416,-34.921067,92,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,14.83424,-34.24312,93,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,13.302088,-33.816338,94,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,1.48936,-31.027227,95,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,-5.7688,-29.232027,96,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,-6.08721,-29.084498,97,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,-6.374732,-29.086138,98,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,-13.076035,-27.393043,99,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,-37.70078,-22.458148,100,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,-39.558033,-21.575298,101,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,-40.44128,-21.909867,102,11548.9
+Shanghai ==> Acu Superport,Shanghai,Acu Superport,-40.981983,-21.808348,103,11548.9
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,121.629258,31.35153,0,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,122.302738,31.103658,1,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,123.070602,31.091728,2,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,123.391508,30.96086,3,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,123.915,30.26,4,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,123.961667,28.893333,5,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,123.94011,27.275705,6,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,123.865,26.995,7,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,121.727688,22.67223,8,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,120.935073,21.663268,9,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,114.778732,14.740377,10,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,112.265115,11.48319,11,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,112.155028,11.457347,12,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,111.85175,10.952728,13,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,109.5625,7.956477,14,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,105.342597,3.378228,15,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,104.651293,1.630983,16,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,103.383192,1.278062,17,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,102.86727,1.642028,18,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,102.268465,1.936092,19,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,101.469515,2.600328,20,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,100.995132,2.844037,21,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,99.911547,3.99129,22,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,98.17981,5.497252,23,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,95.312987,6.304418,24,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,94.859517,6.320373,25,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,86.822427,0.2716,26,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,86.731982,0.129158,27,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,85.858333,-0.453333,28,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,58.96656,-20.74832,29,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,54.44392,-23.628063,30,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,53.706987,-24.039653,31,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,46.597147,-26.806933,32,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,32.826903,-31.937042,33,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,28.417093,-33.829973,34,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,24.999735,-34.461738,35,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,20.993173,-34.917707,36,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,19.667947,-34.98184,37,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,17.573825,-34.540427,38,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,16.681035,-34.440797,39,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,16.566655,-34.242073,40,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,14.94648,-34.152987,41,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,12.140373,-33.6968,42,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,11.02546,-33.43086,43,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,9.855893,-33.319283,44,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,7.532982,-32.938007,45,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,7.078333,-32.783333,46,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,5.083333,-32.426667,47,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,1.416913,-31.92204,48,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,-6.053257,-30.667218,49,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,-39.835893,-24.7308,50,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,-43.335218,-23.60819,51,11277.3
+Shanghai ==> Guaiba Island Terminal,Shanghai,Guaiba Island Terminal,-44.032533,-23.013227,52,11277.3
+Shanghai ==> Tubarao,Shanghai,Tubarao,121.390375,31.493742,0,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,122.32274,31.098928,1,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,122.8582,31.0835,2,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,123.33,30.9353,3,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,121.205832,25.789123,4,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,119.958448,23.988775,5,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,119.892888,23.137612,6,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,119.679375,22.389845,7,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,104.523125,1.480672,8,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,104.320207,1.31501,9,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,104.056297,1.296035,10,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,103.73676,1.136372,11,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,103.4297,1.230025,12,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,102.240968,1.974918,13,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,101.472515,2.600642,14,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,100.989963,2.841128,15,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,98.192427,5.448,16,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,95.20422,6.220903,17,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,93.89376,5.185413,18,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,91.838015,3.243028,19,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,80.976533,-7.321147,20,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,78.106587,-9.759307,21,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,77.96088,-10.0904,22,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,69.967147,-15.85856,23,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,67.14904,-17.77424,24,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,63.433413,-20.147307,25,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,62.012545,-20.979018,26,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,59.979732,-22.105278,27,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,54.720795,-24.778158,28,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,49.652408,-27.074197,29,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,47.019627,-28.0512,30,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,45.001768,-28.912833,31,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,39.736533,-30.739573,32,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,34.7607,-32.213672,33,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,33.876557,-32.257213,34,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,32.968473,-32.157042,35,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,31.45024,-32.50888,36,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,27.183028,-34.027728,37,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,23.758747,-34.614907,38,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,20.864507,-34.934293,39,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,19.718533,-34.96112,40,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,17.376443,-34.602917,41,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,11.463878,-33.242907,42,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,10.361497,-32.915752,43,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,1.330693,-30.83216,44,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,-18.024667,-26.084453,45,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,-25.746565,-24.088983,46,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,-26.865965,-24.022897,47,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,-32.595048,-22.301258,48,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,-39.88961,-20.409075,49,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,-40.192152,-20.403232,50,11105.6
+Shanghai ==> Tubarao,Shanghai,Tubarao,-40.24508,-20.289257,51,11105.6
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,121.428283,31.47625,0,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,122.315517,31.099883,1,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,123.1335,31.108,2,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,123.3402,31.0209,3,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,123.902347,30.559173,4,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,121.172583,25.80735,5,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,120.752083,25.369717,6,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,120.014583,24.13365,7,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,119.87175,24.006267,8,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,119.809283,23.61935,9,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,119.8359,23.00765,10,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,119.940767,22.80135,11,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,120.195667,22.595933,12,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,120.081567,22.423133,13,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,120.110817,22.191817,14,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,119.909317,20.911783,15,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,116.945333,14.039467,16,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,114.9196,12.54245,17,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,112.304293,10.424213,18,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,110.62928,9.01328,19,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,109.469307,7.928427,20,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,107.710693,5.195813,21,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,107.340133,4.737413,22,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,106.482267,3.925813,23,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,105.412017,3.306433,24,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,104.783367,1.852583,25,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,104.5821,1.527017,26,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,104.342517,1.33145,27,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,104.058717,1.310267,28,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,103.725733,1.14365,29,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,103.412533,1.248717,30,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,102.976567,1.634933,31,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,102.272067,1.940533,32,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,101.485667,2.595217,33,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,100.981717,2.834967,34,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,99.55456,4.195627,35,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,97.807413,5.575147,36,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,95.49496,6.263013,37,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,94.743093,6.322533,38,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,94.37525,6.057233,39,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,80.440267,-7.636347,40,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,79.93555,-8.062567,41,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,78.02544,-10.012667,42,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,68.437147,-14.94072,43,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,68.0832,-15.055627,44,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,67.189983,-15.156633,45,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,67.034613,-15.518747,46,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,66.85192,-15.611573,47,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,66.683933,-15.8213,48,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,62.300183,-18.079967,49,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,60.405973,-19.680533,50,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,57.57,-21.5389,51,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,56.211733,-22.58305,52,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,41.071467,-28.780853,53,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,27.89568,-33.859733,54,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,23.478017,-34.476183,55,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,22.362067,-34.75355,56,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,20.713733,-34.953707,57,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,18.625867,-34.880267,58,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,18.145817,-34.535533,59,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,17.904083,-33.363117,60,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,17.667317,-32.907,61,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,17.730067,-32.711133,62,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,18.074967,-32.589067,63,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,17.79448,-32.691173,64,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,17.640507,-32.977307,65,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,17.810933,-33.104183,66,8224.87
+Shanghai ==> Saldanha Bay,Shanghai,Saldanha Bay,17.986333,-33.032383,67,8224.87
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),121.630778,31.350455,0,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),121.926758,31.119112,1,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),122.197493,31.035257,2,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),122.583572,30.976432,3,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),123.009571,31.040385,4,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),124.497683,31.912492,5,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),126.909092,33.17715,6,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),128.26701,34.198812,7,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),128.676312,34.359142,8,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),129.409665,34.944812,9,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),129.77,35.4539,10,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),130.534198,37.898213,11,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),130.561803,38.222665,12,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),131.709392,39.937407,13,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),132.99312,42.0884,14,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),132.955002,42.801167,15,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),132.898397,42.628737,16,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),133.081653,42.542443,17,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),133.384152,42.563188,18,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),133.958637,42.756088,19,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),135.88896,43.489787,20,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),140.749248,45.742968,21,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),141.907108,45.715285,22,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),143.58154,45.899735,23,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),154.23518,49.986833,24,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),154.561067,49.98536,25,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),155.48072,49.685813,26,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),161.830053,50.374907,27,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),167.596713,50.679357,28,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),174.814142,50.683003,29,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),-169.650363,49.603268,30,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),-158.99733,47.91589,31,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),-149.045467,45.214213,32,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),-139.038077,41.225267,33,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),-134.88005,38.983158,34,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),-129.043787,35.697653,35,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),-122.730685,31.071385,36,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),-118.597092,27.766638,37,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),-110.856413,21.239777,38,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),-105.370128,16.408958,39,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),-99.51608,11.13272,40,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),-89.025707,1.43768,41,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),-77.196005,-13.260763,42,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),-75.966133,-14.741093,43,9692.27
+Shanghai ==> San Nicolas (Peru),Shanghai,San Nicolas (Peru),-75.242663,-15.248215,44,9692.27
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,121.413438,31.482928,0,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,121.990808,31.091062,1,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,122.616787,30.967723,2,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,122.987257,30.75123,3,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,123.066325,30.308066,4,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,123.037332,29.863618,5,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,122.453802,25.081878,6,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,121.783258,21.827102,7,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,120.92859,19.69037,8,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,119.68552,16.251815,9,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,119.698248,15.897202,10,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,119.973843,14.735193,11,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,120.377428,14.384877,12,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,120.870938,14.549907,13,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,120.707507,14.457087,14,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,120.524893,14.202518,15,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,120.549057,13.797693,16,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,120.867528,13.560052,17,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,121.2192,13.520737,18,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,121.628093,13.12316,19,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,121.834258,10.67745,20,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,121.798308,6.920702,21,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,122.24411,6.771653,22,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,123.180205,6.243282,23,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,125.171335,4.543887,24,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,126.026455,4.169077,25,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,126.948017,1.710042,26,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,126.337437,0.133773,27,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,127.021883,-1.8591,28,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,130.55939,-2.807565,29,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,133.273427,-5.169768,30,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,133.600778,-6.675335,31,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,133.719473,-6.914912,32,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,134.20337,-7.565677,33,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,135.709367,-8.861625,34,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,141.459082,-10.605292,35,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,142.309805,-10.497493,36,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,142.792007,-10.80198,37,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,142.967045,-11.583012,38,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,143.29976,-11.961423,39,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,143.256008,-12.244103,40,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,143.719505,-12.96388,41,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,144.07282,-13.69302,42,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,144.691323,-14.357717,43,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,145.3722,-14.91521,44,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,145.377148,-15.695783,45,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,145.648042,-16.492952,46,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,145.831193,-16.746485,47,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,146.033015,-16.885393,48,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,146.52537,-18.388928,49,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,147.743247,-19.368193,50,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,148.015098,-19.722917,51,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,148.136967,-19.749388,52,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,148.06337,-19.789707,53,4153.78
+Shanghai ==> Abbot Point,Shanghai,Abbot Point,148.083938,-19.856723,54,4153.78
+Shanghai ==> Gladstone,Shanghai,Gladstone,121.436307,31.469887,0,4048.46
+Shanghai ==> Gladstone,Shanghai,Gladstone,122.309462,31.100897,1,4048.46
+Shanghai ==> Gladstone,Shanghai,Gladstone,123.021517,31.095062,2,4048.46
+Shanghai ==> Gladstone,Shanghai,Gladstone,123.57965,30.683828,3,4048.46
+Shanghai ==> Gladstone,Shanghai,Gladstone,123.695722,30.440002,4,4048.46
+Shanghai ==> Gladstone,Shanghai,Gladstone,123.676525,30.282512,5,4048.46
+Shanghai ==> Gladstone,Shanghai,Gladstone,124.191187,29.420507,6,4048.46
+Shanghai ==> Gladstone,Shanghai,Gladstone,124.596372,28.488847,7,4048.46
+Shanghai ==> Gladstone,Shanghai,Gladstone,125.708355,26.69677,8,4048.46
+Shanghai ==> Gladstone,Shanghai,Gladstone,129.326003,20.338808,9,4048.46
+Shanghai ==> Gladstone,Shanghai,Gladstone,135.973013,7.932427,10,4048.46
+Shanghai ==> Gladstone,Shanghai,Gladstone,143.253093,-1.268667,11,4048.46
+Shanghai ==> Gladstone,Shanghai,Gladstone,146.290978,-4.433888,12,4048.46
+Shanghai ==> Gladstone,Shanghai,Gladstone,146.806915,-5.52951,13,4048.46
+Shanghai ==> Gladstone,Shanghai,Gladstone,147.615752,-5.889833,14,4048.46
+Shanghai ==> Gladstone,Shanghai,Gladstone,151.128878,-8.251725,15,4048.46
+Shanghai ==> Gladstone,Shanghai,Gladstone,151.806427,-10.340347,16,4048.46
+Shanghai ==> Gladstone,Shanghai,Gladstone,152.07656,-10.681735,17,4048.46
+Shanghai ==> Gladstone,Shanghai,Gladstone,152.348238,-16.998385,18,4048.46
+Shanghai ==> Gladstone,Shanghai,Gladstone,153.344587,-19.80096,19,4048.46
+Shanghai ==> Gladstone,Shanghai,Gladstone,153.468347,-20.333147,20,4048.46
+Shanghai ==> Gladstone,Shanghai,Gladstone,153.240498,-21.540458,21,4048.46
+Shanghai ==> Gladstone,Shanghai,Gladstone,152.579193,-23.854937,22,4048.46
+Shanghai ==> Gladstone,Shanghai,Gladstone,152.45287,-23.97551,23,4048.46
+Shanghai ==> Gladstone,Shanghai,Gladstone,151.569577,-23.840448,24,4048.46
+Shanghai ==> Gladstone,Shanghai,Gladstone,151.445988,-23.930728,25,4048.46
+Shanghai ==> Gladstone,Shanghai,Gladstone,151.23939,-23.814958,26,4048.46
